@@ -103,21 +103,5 @@ public class Grupowka {
                 }
                 }
              scierzka = scan.next();
-        }
-
-   public static void main(String args[]) throws Exception{
-
-      int count =0;
-      File file = new File("C:\\Users\\Grzegorz\\Documents\\NetBeansProjects\\grupowka\\Grupowka\\src\\grupowka\\data.txt");
-      FileInputStream fis = new FileInputStream(file);
-      byte[] bytesArray = new byte[(int)file.length()];
-      fis.read(bytesArray);
-      String s = new String(bytesArray);
-      String [] data = s.split(" ");
-      for (int i=0; i<data.length; i++) {
-         count++;
-      }
-      System.out.println("Ilosc slow w pliku " +count);
-   }
-    
+        }   
 }
