@@ -104,4 +104,5 @@ public class Grupowka {
                 }
              scierzka = scan.next();
         }   
+    }
 }
