@@ -1,6 +1,6 @@
 #Algorytm zliczający - dokumentacja
 
-##Autorzy: Daniel Czyż, Rafał Dziuba, , Mateusz Kaput
+##Autorzy: Daniel Czyż, Rafał Dziuba, Mateusz Kaput
 ##Stworzono: 18 Styczeń 2021
  
 ###Projekt jest aplikacją konsolową, mającą za zadanie zliczać słowa w pliku tekstowym.
