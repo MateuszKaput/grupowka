@@ -9,6 +9,6 @@ Instrukcja użycia:
 4. Jeśli ścieżka będzie niepoprawna - zostanie wyświetlony odpowiedni komunikat.
    Możemy również skorzystać z komendy **help**, gdzie możemy skorzystać z następujących opcji:
 
-        - **exit** wyjście z programu
-        - **zmiana separatora na przecinek** separator: ,
-        - **zmiana separatora na spacje** separator: space
+        - exit wyjście z programu
+        - zmiana separatora na przecinek separator: ,
+        - zmiana separatora na spacje separator: space
